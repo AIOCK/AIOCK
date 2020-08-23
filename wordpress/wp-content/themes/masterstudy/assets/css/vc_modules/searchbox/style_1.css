@@ -1,0 +1,61 @@
+/* line 4, assets/scss/vc_modules/searchbox/style_1.scss */
+.stm_searchbox {
+  margin: 0 0 40px; }
+  /* line 6, assets/scss/vc_modules/searchbox/style_1.scss */
+  .stm_searchbox form {
+    position: relative;
+    max-width: 610px;
+    margin: 0 auto; }
+    /* line 10, assets/scss/vc_modules/searchbox/style_1.scss */
+    .stm_searchbox form input {
+      padding-left: 30px !important;
+      height: 60px;
+      padding-right: 50px !important; }
+    /* line 15, assets/scss/vc_modules/searchbox/style_1.scss */
+    .stm_searchbox form button[type="submit"] {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 50px;
+      line-height: 63px;
+      right: 0;
+      color: #0050b4;
+      font-size: 18px;
+      border: 0;
+      background-color: transparent; }
+  /* line 28, assets/scss/vc_modules/searchbox/style_1.scss */
+  .stm_searchbox .stm_lms_courses_search {
+    position: relative;
+    max-width: 610px;
+    margin: 0 auto; }
+    /* line 33, assets/scss/vc_modules/searchbox/style_1.scss */
+    .stm_searchbox .stm_lms_courses_search .autocomplete-wrapper .autocomplete-input {
+      width: 100%;
+      padding-left: 30px !important;
+      height: 60px;
+      padding-right: 50px !important;
+      background-color: #fff;
+      border-radius: 5px; }
+    /* line 42, assets/scss/vc_modules/searchbox/style_1.scss */
+    .stm_searchbox .stm_lms_courses_search__button {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 50px;
+      line-height: 63px;
+      right: 0;
+      color: #0050b4;
+      font-size: 18px;
+      border: 0;
+      background-color: transparent;
+      text-align: center;
+      padding: 0 6px; }
+    /* line 56, assets/scss/vc_modules/searchbox/style_1.scss */
+    .stm_searchbox .stm_lms_courses_search .autocomplete-wrapper {
+      width: 100%; }
+      /* line 58, assets/scss/vc_modules/searchbox/style_1.scss */
+      .stm_searchbox .stm_lms_courses_search .autocomplete-wrapper ul {
+        width: 100%; }
+        /* line 62, assets/scss/vc_modules/searchbox/style_1.scss */
+        .stm_searchbox .stm_lms_courses_search .autocomplete-wrapper ul li a:hover {
+          color: #fff; }
